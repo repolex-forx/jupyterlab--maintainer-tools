@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyterlab/maintainer-tools/commit/9ef9d99e773be92f2d68ec6fe0f7bd47c14671a2",
       "git:hexsha": "9ef9d99e773be92f2d68ec6fe0f7bd47c14671a2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T15:54:32.534310+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyterlab/maintainer-tools/commit/46a940be61135f651598c0e17fdaceb707ec1786",
